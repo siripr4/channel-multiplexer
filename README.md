@@ -1,2 +1,2 @@
 # channel-multiplexer
-A simple Go package implementing multiplexing and demultiplexing of channels
+A simple Go package implementing multiplexing(fan in) and demultiplexing(fan out) of channels
